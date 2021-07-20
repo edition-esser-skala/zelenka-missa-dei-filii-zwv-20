@@ -1,0 +1,24 @@
+composer: Zelenka, Jan Dismas
+title: Missa Dei Filii
+id: ZWV 20
+genre: mass
+scoring: S, A, T, B (solo), S, A, T, B (coro), 2 ob, 2 vl, vla, b, org
+sources:
+  1:
+    siglum: D-Dl
+    shelfmark: Mus.2358-D-15,1
+    type: autograph manuscript
+    date: 1740–1741
+    rism: 212006530
+    url: http://digital.slub-dresden.de/id426607716
+  2:
+    siglum: D-Dl
+    shelfmark: Mus.2358-D-15,2
+    type: autograph manuscript
+    date: 1740–1741
+    rism:  212006531
+    url: http://digital.slub-dresden.de/id426607406
+github: zelenka-missa-dei-filii-zwv-20
+imslp: Missa_Dei_Filii,_ZWV_20_(Zelenka,_Jan_Dismas)
+notes:
+
