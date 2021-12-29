@@ -1,24 +1,28 @@
-composer: Zelenka, Jan Dismas
+composer:
+  last: Zelenka
+  first: Jan Dismas
 title: Missa Dei Filii
+subtitle: Missa Ultimarum Secunda
 id: ZWV 20
 genre: mass
 scoring: S, A, T, B (solo), S, A, T, B (coro), 2 ob, 2 vl, vla, b, org
+license: cc-by-sa-4.0
 sources:
-  1:
+  A1:
     siglum: D-Dl
     shelfmark: Mus.2358-D-15,1
-    type: autograph manuscript
     date: 1740–1741
     rism: 212006530
-    url: http://digital.slub-dresden.de/id426607716
-  2:
+    url: https://digital.slub-dresden.de/id426607716
+    license: public domain
+    principal: true
+    notes: Kyrie
+  A2:
     siglum: D-Dl
     shelfmark: Mus.2358-D-15,2
-    type: autograph manuscript
     date: 1740–1741
     rism:  212006531
-    url: http://digital.slub-dresden.de/id426607406
-github: zelenka-missa-dei-filii-zwv-20
+    url: https://digital.slub-dresden.de/id426607406
+    license: public domain
+    notes: Gloria
 imslp: Missa_Dei_Filii,_ZWV_20_(Zelenka,_Jan_Dismas)
-notes:
-
